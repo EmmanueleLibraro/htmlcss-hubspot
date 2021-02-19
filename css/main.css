@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Styles */
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4{
+    font-weight: 500;
+}
+
+/* Utilities */
+.container{
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.clearfix::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.float-left{
+    float: left;
+}
+
+.btn{
+    min-width: 100%;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 15px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+/* Classi */
+.main-header{
+    line-height: 80px;
+    font-size: 12px;
+    background-color: #F8F8FF;
+}
+
+.main-header .main.text{
+    width: 50%;
+} 
+
+.main-header .main-right{
+    width: 50%;
+    text-align: right;
+}
+
+.text{
+    border-right: 5px grey;
+    /* padding-right: 10px;  non prende lo spazio */
+}
+
+.lista-1 li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 20px;
+}
+
+.lista-1 a{
+    text-decoration: none;
+    color: black;
+}
+
+/* Logo-searg */
+.search{
+    color: #1E90FF;
+}
+
+/* Bottone-1-2 */
+.btn-1{
+    color: #FF8C00;
+    border: 1px solid #FF8C00;
+    background: #fff;
+}
+
+.btn-2{
+    color: #fff;
+    background: #FF8C00;
+    border: transparent;
+}

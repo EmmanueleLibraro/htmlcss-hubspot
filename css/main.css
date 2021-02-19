@@ -18,6 +18,7 @@ h4{
 
 /* Utilities */
 .container{
+    position: relative;
     width: 1500px;
     margin: 0 auto;
 }
@@ -109,8 +110,39 @@ h4{
     vertical-align: middle;
 }
 
+/* Background-image */
 .section-background{
-    height: 480px;
+    background-color: #FFF2EE;
+    height: 555px;
     background-image: url(../img-hubspot/jumbotron.png);
-    
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 1500px;
+}
+
+.mini-container h1{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    font-size: 50px;
+    color: black;
+}
+
+.mini-container .paragrafo{
+    color: black;
+    padding-bottom: 25px;
+}
+
+.mini-container .paragrafo-2{
+    padding-top: 25px;
+    font-size: 12px;
+}
+
+.bordo{
+    width: 100%;
+    position: absolute;
+    top: 64%;
+    height: 100px;
+    background-color: #7BDED2;
+    border-style: solid;
+
 }

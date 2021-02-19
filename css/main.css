@@ -48,7 +48,7 @@ h4{
     background-color: #F8F8FF;
 }
 
-.main-header .main.text{
+.main-header .main-text{
     width: 50%;
 } 
 
@@ -79,14 +79,38 @@ h4{
 }
 
 /* Bottone-1-2 */
-.btn-1{
+.lista-1 .btn-1 {
     color: #FF8C00;
     border: 1px solid #FF8C00;
     background: #fff;
 }
 
-.btn-2{
+.lista-1 .btn-2{
     color: #fff;
     background: #FF8C00;
     border: transparent;
+}
+
+.main-nav{
+    line-height: 80px;
+}
+
+.main-nav .right-nav{
+    word-spacing: 5px;
+    width: 50%;
+    text-align: right;
+}
+
+.logo-main{
+    width: 50%;
+}
+
+.logo{
+    vertical-align: middle;
+}
+
+.section-background{
+    height: 480px;
+    background-image: url(../img-hubspot/jumbotron.png);
+    
 }

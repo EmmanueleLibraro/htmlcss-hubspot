@@ -50,7 +50,7 @@ h4{
 
 .main-header .main-text{
     width: 50%;
-} 
+}
 
 .main-header .main-right{
     width: 50%;
@@ -250,7 +250,7 @@ h4{
 /* Mini-container */
 .mini-container2{
     text-align: center;
-    height: 250px;
+    /* height: 250px; */
 }
 
 .background{
@@ -258,7 +258,7 @@ h4{
 }
 
 .sezioni{
-    width: 33%;
+    width: 31%;
     height: 700px;
     border-radius: 5px;
     background-color: #fff;
@@ -274,6 +274,10 @@ h4{
 .pre-testo{
     font-size: 30px;
     margin-bottom: 20px;
+}
+
+.pre-testo2{
+    font-size: 25px;
 }
 
 .testo-lungo{

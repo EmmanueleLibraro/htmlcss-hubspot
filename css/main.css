@@ -151,8 +151,7 @@ h4{
     font-size: 12px;
 }
 
-
-
+/* Bordo */
 .bordo{
     width: 100%;
     position: absolute;
@@ -160,13 +159,12 @@ h4{
     height: 100px;
     background-color: #7BDED2;
     border-style: solid;
-
 }
 
 /* Background-2 */
 .section-background-2{
     background-color: #F8F8FF;
-    height: 400px;
+    padding-bottom: 30px;
 }
 
 .cubo{
@@ -252,8 +250,45 @@ h4{
 /* Mini-container */
 .mini-container2{
     text-align: center;
-    background-color: #fff;
     height: 250px;
+}
 
+.background{
+    background-color:  #F8F8FF;
+}
 
+.sezioni{
+    width: 33%;
+    height: 700px;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 5px 6px 18px #888888;
+    padding: 33px;
+}
+
+.marketing{
+    height: 180px;
+    padding-top: 30px;
+}
+
+.pre-testo{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.testo-lungo{
+    line-height: 30px;
+}
+
+.lista-2{
+    list-style: none;
+    padding-top: 10px;
+    padding: 20px;
+    padding-left: 20px;
+    padding-bottom: 45px;
+    text-align: left;
+}
+
+.linea{
+    margin: 50px 15px;
 }

@@ -192,13 +192,19 @@ h4{
     margin-top: 45px;
 }
 
-.section-container2{
+/* .section-container2{
     text-align: center;
     background-color: #fff;
     width: 1500px;
     margin: 0 auto;
     border-radius: 5px;
     padding-top: 95px;
+} */
+
+.section-background-3{
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 5px 6px 18px #888888;
 }
 
 .immagine-cmr{
@@ -222,4 +228,32 @@ h4{
 
 .w-60{
     width: 60%;
+}
+
+.cerchio-arancione{
+    color: #FF8C00;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.text-CMR{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.paragrafo-3{
+    padding-bottom: 20px;
+}
+
+.feature{
+    padding-bottom: 20px;
+}
+
+/* Mini-container */
+.mini-container2{
+    text-align: center;
+    background-color: #fff;
+    height: 250px;
+
+
 }

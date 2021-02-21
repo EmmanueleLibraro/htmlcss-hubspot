@@ -278,7 +278,7 @@ h4{
     background-color: #fff;
     box-shadow: 5px 6px 18px #888888;
     padding: 33px;
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 .marketing{
@@ -366,4 +366,54 @@ h4{
     border-bottom: none;
     margin: 0;
 }
+
+/* Logos-section */
+.number2{
+    font-size: 45px;
+    padding: 30px 0 20px 0;
+}
+
+.fila-righe{
+    padding-bottom: 20px;
+}
+
+
+.larghezza-img{
+    height: 50px;
+    padding-top: 20px;
+}
+
+
+/* Immagine-cinese-testo */
+.container-prefooter{
+    height: 800px;
+    background-image: url(../img-hubspot/woman.webp);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-top: 25px;
+}
+
+.w-50{
+    width: 38%;
+
+}
+
+.paragrafo-cinese{
+    padding-top: 230px;
+}
+
+.start-text{
+    font-size: 38px;
+}
+.padding{
+    padding-bottom: 30px;
+}
+.top{
+    padding-top: 30px;
+}
+
+.distanza-testo{
+    line-height: 30px;
+}
+
 

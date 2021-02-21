@@ -7,7 +7,7 @@
 /* Styles */
 body{
     font-family: 'Montserrat', sans-serif;
-    background-color: #F8F8FF;
+    background-color: rgb(218, 222, 224);
 }
 
 h1,
@@ -45,7 +45,6 @@ h4{
 .main-header{
     line-height: 80px;
     font-size: 12px;
-    background-color: #F8F8FF;
     border-bottom: 2px solid black;
 }
 
@@ -60,7 +59,6 @@ h4{
 
 .text{
     border-right: 5px grey;
-    /* padding-right: 10px;  non prende lo spazio */
 }
 
 .lista-1 li{
@@ -113,6 +111,7 @@ h4{
 
 
 .section-height{
+    background-color: #fff;
     line-height: 80px;
 }
 
@@ -174,7 +173,6 @@ h4{
 
 /* Background-2 */
 .section-background-2{
-    background-color: #F8F8FF;
     padding-bottom: 30px;
 }
 
@@ -267,7 +265,6 @@ h4{
 }
 
 .background{
-    background-color:  #F8F8FF;
     margin-bottom: 45px;
 }
 
@@ -416,4 +413,38 @@ h4{
     line-height: 30px;
 }
 
+/* Footer */
+.background-footer{
+    background-color: rgb(50, 73, 91);
+    height: 600px;
+    color: #fff;
+}
 
+.w-25{
+    width: 25%;
+}
+
+.increase-text{
+    padding-top: 30px;
+    font-size: 25px;
+}
+
+.lista-2{
+    list-style: none;
+    padding-left: 0;
+}
+
+.lista-2 .colonna{
+    padding-bottom: 20px;
+}
+
+.btn-4{
+    display: inline-block;
+    color: rgb(50, 73, 91);
+    background: #fff;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+}

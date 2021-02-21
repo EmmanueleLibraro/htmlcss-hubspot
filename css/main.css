@@ -73,6 +73,16 @@ h4{
     color: black;
 }
 
+/* Border-header-contacts */
+.border-contact{
+    border-left: 1px solid black;
+    padding-left: 10px;
+}
+
+.angle{
+    padding-right: 10px;
+}
+
 /* Logo-searg */
 .search{
     color: #1E90FF;

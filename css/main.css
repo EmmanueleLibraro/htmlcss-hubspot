@@ -228,7 +228,7 @@ h4{
     display: inline-block;
     color: #fff;
     background: #FF8C00;
-    border: 1px solid;
+    border: transparent;
     border-radius: 5px;
     padding: 15px;
     text-align: center;
@@ -387,7 +387,9 @@ h4{
     background-image: url(../img-hubspot/woman.webp);
     background-repeat: no-repeat;
     background-position: bottom right;
+    background-size: 500px;
     margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 .w-50{
@@ -396,7 +398,7 @@ h4{
 }
 
 .paragrafo-cinese{
-    padding-top: 230px;
+    padding-top: 350px;
 }
 
 .start-text{
@@ -448,3 +450,32 @@ h4{
     text-align: center;
     text-decoration: none;
 }
+
+.socials{
+    padding-top: 20px;
+}
+
+.divisone-colonna{
+    margin-left: 140px;
+}
+
+.lingue{
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.main-footer{
+    height: 80px;
+    background-color: rgb(50, 73, 91);
+}
+
+.logo-footer{
+    padding-top: 20px;
+}
+
+.footer-right{
+    text-align: right;
+    padding-top: 20px;
+}
+

@@ -251,6 +251,7 @@ h4{
 
 .paragrafo-3{
     padding-bottom: 20px;
+    line-height: 30px;
 }
 
 .feature{
@@ -260,11 +261,11 @@ h4{
 /* Mini-container */
 .mini-container2{
     text-align: center;
-    /* height: 250px; */
 }
 
 .background{
     background-color:  #F8F8FF;
+    margin-bottom: 45px;
 }
 
 .sezioni{
@@ -274,6 +275,7 @@ h4{
     background-color: #fff;
     box-shadow: 5px 6px 18px #888888;
     padding: 33px;
+    margin-left: 20px;
 }
 
 .marketing{
@@ -307,3 +309,53 @@ h4{
     margin: 50px 15px;
 }
 
+
+/* Linea-gradient */
+.container-linea{
+    height: 800px;
+    background-image: linear-gradient(to right, #07bca8 , #08a4bc );
+}
+
+.mini-container-gradient{
+    text-align: center;
+    color: #fff;
+}
+
+.mini-container-gradient .text-agradient{
+    font-size: 40px;
+    padding: 30px 0 30px 0;
+}
+
+.mini-container-gradient .text-agradient2{
+    line-height: 35px;
+    font-size: 17px;
+}
+
+.mini-border{
+    width: 25%;
+    height: 230px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 60px;
+    color: #fff;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+}
+
+.mini-border .little-image{
+    padding-top: 15px;
+}
+
+.mini-border .number{
+    font-size: 45px;
+    padding: 20px 0 20px 0
+}
+
+.border-right{
+    border-right: none;
+}
+
+.border-bottom{
+    border-bottom: none;
+    margin: 0;
+}

@@ -355,7 +355,12 @@ h4{
     border-right: none;
 }
 
+.last-left{
+    border-right: none;
+}
+
 .border-bottom{
     border-bottom: none;
     margin: 0;
 }
+

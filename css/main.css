@@ -159,7 +159,8 @@ h4{
     bottom: 0;
     height: 100px;
     background-color: #7BDED2;
-    border-style: solid;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
 }
 
 /* Background-2 */

@@ -374,7 +374,7 @@ h4{
 
 /* Immagine-cinese-testo */
 .container-prefooter{
-    height: 730px;
+    height: 645px;
     background-image: url(../img-hubspot/woman.webp);
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -388,17 +388,17 @@ h4{
 }
 
 .paragrafo-cinese{
-    padding-top: 265px;
+    padding-top: 155px;
 }
 
 .start-text{
     font-size: 38px;
 }
 .padding{
-    padding-bottom: 30px;
+    padding-bottom: 45px;
 }
 .top{
-    padding-top: 30px;
+    padding-top: 45px;
 }
 
 .distanza-testo{

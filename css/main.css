@@ -357,7 +357,7 @@ h4{
 
 /* Logos-section */
 .number2{
-    font-size: 45px;
+    font-size: 40px;
     padding: 30px 0 20px 0;
 }
 
@@ -365,10 +365,26 @@ h4{
     padding-bottom: 20px;
 }
 
-
 .larghezza-img{
-    height: 50px;
+    height: 45px;
     padding-top: 20px;
+    vertical-align: middle;
+}
+
+.larghezza-img-2{
+    height: 52px;
+    padding-top: 20px;
+    vertical-align: middle;
+}
+
+.larghezza-img-3{
+    height: 86px;
+    padding-top: 20px;
+    vertical-align: middle;
+}
+
+.white{
+    background-color: #fff;
 }
 
 
@@ -379,7 +395,7 @@ h4{
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: 500px;
-    margin-bottom: 40px;
+    padding-bottom: 30px;
 }
 
 .w-50{

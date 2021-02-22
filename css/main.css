@@ -100,6 +100,7 @@ h4{
     border: transparent;
 }
 
+/* Header */
 .section-height{
     background-color: #fff;
     line-height: 80px;
@@ -191,15 +192,6 @@ h4{
     margin-top: 45px;
 }
 
-/* .section-container2{
-    text-align: center;
-    background-color: #fff;
-    width: 1500px;
-    margin: 0 auto;
-    border-radius: 5px;
-    padding-top: 95px;
-} */
-
 .section-background-3{
     background-color: #fff;
     border-radius: 5px;
@@ -214,6 +206,10 @@ h4{
 
 .w-40{
     width: 40%;
+}
+
+.centratura{
+   text-align: center;
 }
 
 .btn-3{

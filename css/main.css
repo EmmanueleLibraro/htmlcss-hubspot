@@ -67,10 +67,15 @@ h4{
     margin-right: 20px;
 }
 
+.lista-1 a:hover{
+    color: #FF8C00;
+}
+
 .lista-1 a{
     text-decoration: none;
     color: black;
 }
+
 
 /* Border-header-contacts */
 .border-contact{
@@ -105,6 +110,30 @@ h4{
     background-color: #fff;
     line-height: 80px;
 }
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+}
+
+.prova:hover{
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
 
 .main-nav .right-nav{
     word-spacing: 5px;
